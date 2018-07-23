@@ -3,14 +3,8 @@ This is a program designed to allow the user to observe and detect profitable ch
 
 Algorithm:
 
- ____________________________            ____________________________            ____________________________
-|                            |          |                            |          |                            |
-| stock price goes down (x3) |--------> |     stock price goes up    |--------> |     invest into stock      |
-|____________________________|          |____________________________|          |____________________________|
+stock price goes down (x3)--------> stock price goes up--------> invest into stock
 
- ____________________________            ____________________________            ____________________________
-|                            |          |                            |          |                            |
-| stock price goes up (x3)   |--------> |     stock price goes down  |--------> |     liquify stock          |
-|____________________________|          |____________________________|          |____________________________|
+stock price goes up (x3)--------> stock price goes down--------> liquify stock
 
 The program checks the stock price after a certain time interval specified by the user.
