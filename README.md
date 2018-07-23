@@ -8,3 +8,5 @@ stock price goes down (x3)--------> stock price goes up--------> invest into sto
 stock price goes up (x3)--------> stock price goes down--------> liquify stock
 
 The program checks the stock price after a certain time interval specified by the user.
+
+**CODE IS AMATEUR, MESSY
