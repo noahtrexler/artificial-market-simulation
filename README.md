@@ -1,4 +1,6 @@
 # artificial-market-simulation
+I created this project for my AP Computer Science in high school, 2018.
+
 This is a program designed to allow the user to observe and detect profitable changes in the stock market based on a basic algorithm. 
 
 Algorithm:
@@ -8,5 +10,3 @@ stock price goes down (x3)--------> stock price goes up--------> invest into sto
 stock price goes up (x3)--------> stock price goes down--------> liquify stock
 
 The program checks the stock price after a certain time interval specified by the user.
-
-**CODE IS AMATEUR, MESSY
